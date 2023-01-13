@@ -4,5 +4,5 @@
 <p align="center" ><a href="https://www.linkedin.com/in/deekshasahu">LinkedIn</a></p>
 
 <p align="center">
-<img align="center" src="https://github.com/deekshasahu/GIT_Sample_Img/blob/main/women-dev.gif" />
-</p> -->
+<img align="center" width="60" src="https://github.com/deekshasahu/GIT_Sample_Img/blob/main/women-dev.gif" />
+</p> 
